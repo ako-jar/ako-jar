@@ -1,8 +1,9 @@
 <img align="right" height="150" src="https://github.com/Ako-jar.png"  />
 
 
+<br>
+<br>
 <h2 align="left"><a href="https://ako-jar.github.io/">Hey!<a> My name is Ako and I'm not a a really good programmer so just dont expect to much</h2>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
