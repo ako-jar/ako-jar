@@ -3,6 +3,7 @@
 
 <br>
 <br>
+<br>
 <h2 align="left"><a href="https://ako-jar.github.io/">Hey!<a> My name is Ako and I'm not a a really good programmer so just dont expect to much</h2>
 
 <div align="left">
